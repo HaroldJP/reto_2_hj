@@ -1,4 +1,4 @@
-# reto_2_hjfghfhj
+# 1 al cubo
 Primero, ejecutamos en el cmd de windows.
 
 ![](https://i.ibb.co/Dt53CFc/xd1.png) 
